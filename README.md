@@ -1,5 +1,5 @@
 # BioE Python Guide
-Welcome to the BioE Python Guide! This is a resource to intrdouce students to working with Python in Jupyter Notebooks and/or Google Colab.
+Welcome to the BioE Python Guide! This is a resource to intrdouce students to working with Python in Jupyter Notebooks and/or Google Colab. This guide is adapted from BioE 300B, BioE 103, BioE 279, and materials from [Justin Bois](http://justinbois.github.io/bootcamp/2018/schedule.html).
 
 ## How to Use this Guide
 This guide is split into a series of different modules focusing on different aspects of Python and the notebook enviornment. Each module will consist of a Google Colab notebook and/or a subpage that you can follow. Each Google Colab notebook is interactive and can be saved/edited for your own use. In addition to providing examples, there are optional exercise examples within these modules that you can use to test your understanding.
