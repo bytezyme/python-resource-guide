@@ -8,7 +8,7 @@ If you're looking for a quick reference sheet for common questions and examples,
 1. [Setting Up Your Environment](pages/setting-up-your-environment.md)  
 2. [Working with the Command Line](pages/working-with-command-line.md)
 3. [Introduction to Jupyter Notebooks/Google Colab](https://colab.research.google.com/drive/1EIA4Da9mKvIt1eCrHBhyLYbX0seVKByq?usp=sharing)
-4. Basic Types and Variables
+4. [Basic Types and Variables](https://colab.research.google.com/drive/1O0OlqC4XRJTVEredYxyfWg6IRpAxkMR5?usp=sharing)
 5. Data Collections: Lists, Dictionaries, and Sets
 6. Functions
 7. [Debugging Tips](https://colab.research.google.com/drive/1GLliH40da7_-TIeeTmljWMM6z5p9tF6x?usp=sharing)
