@@ -1,4 +1,4 @@
-[Return to Home](https://anthony-agbay.github.io/bioe-python-guide/)
+[Return to Home](https://anthony-agbay.github.io/python-resource-guide)
 
 # Setting Up Your Environment
 
