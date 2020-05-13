@@ -1,5 +1,8 @@
 # BioE Python Guide
-Welcome to the BioE Python Guide! This is a resource for introducing students with working with Python.
+Welcome to the BioE Python Guide! This is a resource to intrdouce students to working with Python in Jupyter Notebooks and/or Google Colab.
+
+## How to Use this Guide
+This guide is split into a series of different modules focusing on different aspects of Python and the notebook enviornment. Each module will consist of a Google Colab notebook and/or a subpage that you can follow. Each Google Colab notebook is interactive and can be saved/edited for your own use. In addition to providing examples, there are optional exercise examples within these modules that you can use to test your understanding.
 
 ## Python Reference Sheet
 If you're looking for a quick reference sheet for common questions and examples, [click here](https://colab.research.google.com/drive/1X8hKqWm3K56K3mS8-cVV57MVtf9CPv1i?usp=sharing).
@@ -9,8 +12,8 @@ If you're looking for a quick reference sheet for common questions and examples,
 2. [Working with the Command Line](pages/working-with-command-line.md)
 3. [Introduction to Jupyter Notebooks/Google Colab](https://colab.research.google.com/drive/1EIA4Da9mKvIt1eCrHBhyLYbX0seVKByq?usp=sharing)
 4. [Basic Types and Variables](https://colab.research.google.com/drive/1O0OlqC4XRJTVEredYxyfWg6IRpAxkMR5?usp=sharing)
-5. Data Collections: Lists, Dictionaries, and Sets
-6. Control Flow: For, If, While Loops
-7. Functions
-8. Advance Techniques: Vectorization
+5. [Data Collections: Lists, Dictionaries, and Sets](pages/data-collections.md)
+6. [Control Flow: For, If, While Loops](pages/control-flow.md)
+7. [Functions](pages/functions.md)
+8. [Advance Techniques: Vectorization](pages/vectorization.md)
 9. [Debugging Tips](https://colab.research.google.com/drive/1GLliH40da7_-TIeeTmljWMM6z5p9tF6x?usp=sharing)
