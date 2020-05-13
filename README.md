@@ -9,11 +9,11 @@ If you're looking for a quick reference sheet for common questions and examples,
 
 ## Step-by-Step Guide
 1. [Setting Up Your Environment](pages/setting-up-your-environment.md)  
-2. [Working with the Command Line](pages/working-with-command-line.md)
-3. [Introduction to Jupyter Notebooks/Google Colab](https://colab.research.google.com/drive/1EIA4Da9mKvIt1eCrHBhyLYbX0seVKByq?usp=sharing)
-4. [Basic Types and Variables](https://colab.research.google.com/drive/1O0OlqC4XRJTVEredYxyfWg6IRpAxkMR5?usp=sharing)
+2. [Working with the Command Line](pages/command-line.md)
+3. [Introduction to Jupyter Notebooks/Google Colab](pages/intro-notebooks.md)
+4. [Basic Types and Variables](pages/basic-types-variables.md)
 5. [Data Collections: Lists, Dictionaries, and Sets](pages/data-collections.md)
 6. [Control Flow: For, If, While Loops](pages/control-flow.md)
 7. [Functions](pages/functions.md)
 8. [Advance Techniques: Vectorization](pages/vectorization.md)
-9. [Debugging Tips](https://colab.research.google.com/drive/1GLliH40da7_-TIeeTmljWMM6z5p9tF6x?usp=sharing)
+9. [Debugging Tips](pages/debugging-tips.md)
