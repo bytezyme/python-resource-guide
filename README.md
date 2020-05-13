@@ -11,3 +11,4 @@ If you're looking for a quick reference sheet for common questions and examples,
 4. Basic Types and Variables
 5. Data Collections: Lists, Dictionaries, and Sets
 6. Functions
+7. [Debugging Tips](https://colab.research.google.com/drive/1GLliH40da7_-TIeeTmljWMM6z5p9tF6x?usp=sharing)
