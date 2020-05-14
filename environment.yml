@@ -1,7 +1,7 @@
 name: python-guide
 dependencies:
   - numpy
-  - sklearn
+  - scikit-learn
   - matplotlib
   - scipy
   - pandas
