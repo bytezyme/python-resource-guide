@@ -1,5 +1,3 @@
-[Return to Home](https://anthony-agbay.github.io/python-resource-guide)
-
 # Working with the Command Line
 
 If you're working with Python scripts or with Jupyter Notebooks, you'll have to do some work with the command line. While this retro-looking interface make seem scary at first, hoepfully this short guide will help you become more comfortable with it.
@@ -27,3 +25,6 @@ If you're working with Python scripts or with Jupyter Notebooks, you'll have to 
 - `rm -r {folder}` - Removes `folder`, requires confirmation for each file within it
 - `rm -rf {folder}` - Removes `folder`, but skips confirmation for each file within it
 - `rmdir {folder}` - Removes `folder` **only if empty**
+
+---
+[Return Home](https://anthony-agbay.github.io/python-resource-guide)
