@@ -12,6 +12,9 @@ Google Colab is a free, cloud-hosted Python notebook solution. To get started wi
 
 Jupyter Notebooks uses the same type of environment as Google Colab, but runs locally on your computer. The easiest way to get started with Jupyter Notebooks is to use the provided installation with [Anaconda](https://www.anaconda.com/products/individual)
 
+[Placeholder for Video]()
+
+### Written Guide
 1. Download [Anaconda](https://www.anaconda.com/products/individual) from the project website
 2. Follow the steps to install the correct Anaconda version for your system.
 3. After installation, to launch Jupyter Notebooks, open a command line interface and use the command `jupyter notebook` when you've entered the directory that you want to work in (E.g. problem set folder).
