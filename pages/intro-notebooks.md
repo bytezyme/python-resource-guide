@@ -1,5 +1,5 @@
 # Introduction to Jupyter Notebooks/Google Colab
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anthony-agbay/python-resource-guide/master?filepath=notebooks%2Fintroduction-jupyter-colab.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anthony-agbay/python-resource-guide/blob/master/notebooks/introduction-juypter-colab.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anthony-agbay/python-resource-guide/master?filepath=notebooks%2Fintro-notebooks.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anthony-agbay/python-resource-guide/blob/master/notebooks/intro-notebooks.ipynb)
 
 ## Module Goals
 - Understand the two cell components of a Python notebook
