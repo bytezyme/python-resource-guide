@@ -2,7 +2,7 @@
 
 # Basic Python Types and Variables
 
-[Colab Notebook](https://colab.research.google.com/drive/1O0OlqC4XRJTVEredYxyfWg6IRpAxkMR5?usp=sharing)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anthony-agbay/python-resource-guide/master?filepath=notebooks%2Fbasic-types-variables.ipynb)
 
 Now that you have a basic understanding of using Jupyter Notebooks or Google Colab, let's start exploring the fundamentals of python.
 
