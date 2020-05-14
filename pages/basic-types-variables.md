@@ -1,5 +1,3 @@
-[Return to Home](https://anthony-agbay.github.io/python-resource-guide)
-
 # Basic Python Types and Variables
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anthony-agbay/python-resource-guide/master?filepath=notebooks%2Fbasic-types-variables.ipynb)
@@ -13,3 +11,6 @@ Now that you have a basic understanding of using Jupyter Notebooks or Google Col
 - Understand common string methods and manipulation
 - Understand variable assignment
 - Understand using variables in Notebook environments
+
+---
+[Return Home](https://anthony-agbay.github.io/python-resource-guide)
