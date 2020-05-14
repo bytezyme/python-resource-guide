@@ -1,2 +1,0 @@
-source activate example-environment
-conda env export --no-builds -f environment.yml
