@@ -1,7 +1,7 @@
 [Return to Home](https://anthony-agbay.github.io/python-resource-guide)
 
 # Introduction to Jupyter Notebooks/Google Colab
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anthony-agbay/python-resource-guide/master?filepath=notebooks%2Fintro-notebooks.ipynb)  
 [Colab Notebook](https://colab.research.google.com/drive/1EIA4Da9mKvIt1eCrHBhyLYbX0seVKByq?usp=sharing)
 
 ## Module Goals
