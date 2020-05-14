@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anthony-agbay/python-resource-guide/master)
+
 # BioE Python Guide
 Welcome to the BioE Python Guide! This is a resource to intrdouce students to working with Python in Jupyter Notebooks and/or Google Colab. This guide is adapted from BioE 300B, BioE 103, BioE 279, and materials from [Justin Bois](http://justinbois.github.io/bootcamp/2018/schedule.html).
 
