@@ -8,4 +8,4 @@
 - Understand how to write LaTeX math equations in text cells
 
 ---
-[Return to Home](https://anthony-agbay.github.io/python-resource-guide)
+[Return Home](https://anthony-agbay.github.io/python-resource-guide)

@@ -1,3 +1,5 @@
-[Return to Home](https://anthony-agbay.github.io/python-resource-guide)
-
 # Functions
+
+---
+
+[Return Home](https://anthony-agbay.github.io/python-resource-guide)

@@ -1,5 +1,3 @@
-[Return to Home](https://anthony-agbay.github.io/python-resource-guide)
-
 # Setting Up Your Environment
 
 ## Getting Started With Google Colab
@@ -19,3 +17,7 @@ Jupyter Notebooks uses the same type of environment as Google Colab, but runs lo
 2. Follow the steps to install the correct Anaconda version for your system.
 3. After installation, to launch Jupyter Notebooks, open a command line interface and use the command `jupyter notebook` when you've entered the directory that you want to work in (E.g. problem set folder).
     - If you're unfamiliar with how to navigate directories using a command line interface, refer to the [Working with the Command Line](https://anthony-agbay.github.io/python-resource-guide/pages/command-line.html) module for more information.
+
+---
+
+[Return Home](https://anthony-agbay.github.io/python-resource-guide)
