@@ -12,7 +12,7 @@ If you're looking for a quick reference sheet for common questions and examples,
 2. [Working with the Command Line](pages/command-line.md)
 3. [Introduction to Jupyter Notebooks/Google Colab](pages/intro-notebooks.md)
 4. [Basic Types and Variables](pages/basic-types-variables.md)
-5. [Data Collections: Lists, Dictionaries, and Sets](pages/data-collections.md)
+5. [Data Collections: Lists, Dictionaries, and Sets](pages/data-structures.md)
 6. [Control Flow: For, If, While Loops](pages/control-flow.md)
 7. [Functions](pages/functions.md)
 8. [Advance Techniques: Vectorization](pages/vectorization.md)
