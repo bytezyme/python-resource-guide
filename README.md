@@ -20,3 +20,8 @@ If you're looking for a quick reference sheet for common questions and examples,
 ## Additional Techniques and Tips
 8. [Advance Techniques: Vectorization](pages/vectorization.md)
 9. [Debugging Tips](pages/debugging-tips.md)
+
+---
+
+## BioE 80 Modules
+1. [Dancing Droplets](pages/bioe-80-dancing-droplets.md)
