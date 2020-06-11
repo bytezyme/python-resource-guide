@@ -8,8 +8,6 @@ To help introduce you to how to approach modeling a system and how to work with 
 
 Here's a non-interactive preview!
 
-<iframe src="https://nbviewer.jupyter.org/github/anthony-agbay/python-resource-guide/blob/master/notebooks/bioe-80-dancing-droplets.ipynb"></iframe>
-
 ---
 
 [Return Home](https://anthony-agbay.github.io/python-resource-guide)
