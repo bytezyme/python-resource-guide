@@ -6,6 +6,10 @@ To help introduce you to how to approach modeling a system and how to work with 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anthony-agbay/python-resource-guide/master?filepath=notebooks%2Fbioe-80-dancing-droplets.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anthony-agbay/python-resource-guide/blob/master/notebooks/bioe-80-dancing-droplets.ipynb)
 
+Here's a non-interactive preview!
+
+<iframe src="https://nbviewer.jupyter.org/github/anthony-agbay/python-resource-guide/blob/master/notebooks/bioe-80-dancing-droplets.ipynb"></iframe>
+
 ---
 
 [Return Home](https://anthony-agbay.github.io/python-resource-guide)
